@@ -1,6 +1,11 @@
 # 🚀 Cyberpunk CRUD System
+<p align="center">
+  <img src="screenshot.png" width="100%" style="border-radius:15px;">
+</p>
+
 
 A fully functional PHP + MySQL CRUD application with an advanced dark neon UI.
+
 
 ## 🔥 Features
 
@@ -57,6 +62,10 @@ Table Name: `users`
 
 6. Open in browser:
    http://localhost/crud
+  ## 📸 Project Screenshot
+
+![Cyberpunk CRUD Screenshot](screenshot.png)
+
 
 
 
